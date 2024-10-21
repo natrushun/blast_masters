@@ -1,0 +1,2 @@
+Player2 W A S D R T
+Player1 UP LF DW RG M P

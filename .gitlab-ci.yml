@@ -1,0 +1,15 @@
+stages:
+  - build
+  - test
+
+build:
+  stage: build
+  image: maven:latest  
+  script:
+    - mvn clean package
+
+test:
+  stage: test
+  image: maven:latest 
+  script:
+    - mvn test
