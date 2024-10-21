@@ -65,9 +65,6 @@ Bár a játék nem tárol személyes adatokat, elkötelezettek vagyunk amellett,
 ### Adatvédelmi jogok
 Mivel nem gyűjtünk személyes adatokat, így nem áll módunkban semmilyen adatot megtekinteni, módosítani vagy törölni. Amennyiben kérdésed van adatkezelési gyakorlatunkkal kapcsolatban, keress minket bizalommal az alábbi elérhetőségen.
 
-### Elérhetőség
-Ha további kérdéseid vannak az adatvédelmi gyakorlatunkkal kapcsolatban, kérjük, írj nekünk a support@blastmastersgame.com címre.
-
 ### Módosítások
 Fenntartjuk a jogot, hogy bármikor módosítsuk ezt az adatvédelmi nyilatkozatot. Az új nyilatkozat hatálybalépését követően a játék használatával elfogadod a módosított feltételeket. Az aktuális adatvédelmi nyilatkozat mindig elérhető lesz a játék weboldalán.
 
