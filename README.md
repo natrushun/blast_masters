@@ -48,24 +48,3 @@ Válj te is mesterévé a Blast Masters világának. Fedezd fel a stratégiai go
 
 ## Licencszerződés
 A szoftver a GNU Általános Nyilvános Licenc (GNU GPL) 3.0 verziója alatt van licencelve, amely egy ingyenes, copyleft licenc, szoftverek és egyéb művek számára. Ez a licenc biztosítja a felhasználók szabadságát a szoftver másolására, terjesztésére és módosítására, célja, hogy a szoftver minden felhasználója számára ingyenes maradjon. A licenc hangsúlyozza, hogy a szoftver használata során nem az ár, hanem a szabadság a mérvadó. A felhasználóknak bizonyos felelősségekkel is szembe kell nézniük, amennyiben másolatokat terjesztenek vagy a szoftvert módosítják, ezek a felelősségek mások szabadságának tiszteletben tartását követelik meg.
-
-## Adatvédelmi nyilatkozat
-### Bevezetés
-Köszönjük, hogy a Blast Masters játékot választottad! Az adatvédelem kiemelten fontos számunkra, ezért szeretnénk tájékoztatni arról, hogy hogyan kezeljük az adatokat játékunk során.
-
-### Adatkezelési elveink
-A Blast Masters játék során nem gyűjtünk, nem tárolunk és nem továbbítunk semmilyen személyes adatot külső szerverekre. A játék használata közben keletkező összes adat (pl. játékbeli beállítások, eredmények) kizárólag a saját eszközödön kerülnek feldolgozásra és tárolásra.
-
-### Személyes adatok kezelése
-Mivel a játék nem gyűjt személyes adatokat, így nincs szükség külön intézkedésekre a személyes adatok védelmében. A játék használata teljes mértékben anonim, és nem kötődik személyes adatokhoz.
-
-### Biztonság
-Bár a játék nem tárol személyes adatokat, elkötelezettek vagyunk amellett, hogy biztosítsuk az eszközödön tárolt adatok biztonságát. A játék fejlesztése során folyamatosan ügyelünk arra, hogy az adatok védelme megfeleljen a legújabb technológiai követelményeknek.
-
-### Adatvédelmi jogok
-Mivel nem gyűjtünk személyes adatokat, így nem áll módunkban semmilyen adatot megtekinteni, módosítani vagy törölni. Amennyiben kérdésed van adatkezelési gyakorlatunkkal kapcsolatban, keress minket bizalommal az alábbi elérhetőségen.
-
-### Módosítások
-Fenntartjuk a jogot, hogy bármikor módosítsuk ezt az adatvédelmi nyilatkozatot. Az új nyilatkozat hatálybalépését követően a játék használatával elfogadod a módosított feltételeket. Az aktuális adatvédelmi nyilatkozat mindig elérhető lesz a játék weboldalán.
-
-**Köszönjük, hogy a Blast Masters-t választottad, és kellemes szórakozást kívánunk!**
